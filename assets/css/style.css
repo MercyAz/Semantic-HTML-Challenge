@@ -1,3 +1,4 @@
+/*Reset*/
 * {
     box-sizing: border-box;
     padding: 0;
@@ -35,6 +36,7 @@ header nav a {
     margin-left: 25px;
 }
 
+ /*Global Classes*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -43,6 +45,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/*Custom Styling*/
 
 .hero {
     height: 800px;
@@ -68,6 +72,8 @@ p {
     margin-left: 20px;
 }
 
+/* main section styling*/
+
 section {
     margin-bottom: 20px;
     padding: 50px;
@@ -86,6 +92,7 @@ section h2 {
     font-size: 36px;
 }
 
+/*Side bar Styling*/
 
 .benefits {
     margin-right: 20px;
@@ -121,3 +128,4 @@ article img{
     text-align: center;
     font-size: 20px;
 }
+
